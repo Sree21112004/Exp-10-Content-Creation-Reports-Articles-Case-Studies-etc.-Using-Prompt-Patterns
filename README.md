@@ -1,6 +1,6 @@
 # Expirement: 10 - Exploration of Prompting Techniques for AI Content Generation
 
-**Register Number:** 212222040163
+**Register Number:** 212222060252
 
 **Date:** 21-05-2025
 
